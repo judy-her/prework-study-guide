@@ -14,7 +14,7 @@ footer {
 h1,
 h2 {
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 img {
@@ -28,11 +28,13 @@ img {
 ul {
   padding-left: 40px;
   font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 /* part of footer */
 p {
   text-align: center;
   font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .card {
